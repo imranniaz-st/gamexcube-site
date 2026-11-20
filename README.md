@@ -1,14 +1,14 @@
-# GamexCube
+# Block Buster Games
 
-Static website for **GamexCube** by Bicodev Games (developer: Imran Niaz). It is plain HTML and CSS, with no build step, and is meant to be served at [games.bicodev.com](https://games.bicodev.com) with GitHub Pages.
+Static website for **Block Buster Games** by Bicodev (Android package `com.blockbustergames.block_buster_games`). It is plain HTML and CSS, with no build step, and is meant to be served at [games.bicodev.com](https://games.bicodev.com) with GitHub Pages.
 
 GitHub Pages should publish the `main` branch from the repository root (`/`).
 
 ## Pages
 
-- `/` — landing page for the Android puzzle game (Match Cube and Cube Filling), including a coming-soon Google Play link
-- `/privacy-policy.html` and `/privacy-policy/` — privacy policy (effective November 19, 2026)
-- `/terms.html` — terms of use
+- `/` — landing page for the offline Android puzzle collection (Match Cube, Cube Filling, and a Game Hub of ten mini-games), including a coming-soon Google Play link for package `com.blockbustergames.block_buster_games`
+- `/privacy-policy.html` and `/privacy-policy/` — privacy policy (last updated November 20, 2026)
+- `/terms.html` — terms of use (last updated November 20, 2026)
 - `/app-ads.txt` — AdMob authorization file, served at the site root
 - `/404.html` — page not found
 - `CNAME` — custom domain `games.bicodev.com`

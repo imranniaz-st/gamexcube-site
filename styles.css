@@ -146,7 +146,7 @@ a {
   gap: 10px;
   min-height: 44px;
   text-decoration: none;
-  font-size: 1.15rem;
+  font-size: 1.02rem;
 }
 
 .mark {
@@ -358,6 +358,14 @@ a {
 
 .mode-kicker.fill {
   color: var(--teal);
+}
+
+.mode-kicker.hub {
+  color: var(--blue);
+}
+
+.hub {
+  grid-column: 1 / -1;
 }
 
 .mode p {
